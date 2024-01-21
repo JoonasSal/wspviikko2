@@ -30,9 +30,3 @@ li a:hover {
 div {
     padding: 1em;
 }
-
-@media screen and (max-width: 1200px) {
-    #content {
-        flex-direction: column;
-    }
-}
